@@ -13,6 +13,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  margin-top: 50px;
 }
 
 .contain0 {
@@ -35,7 +36,9 @@ p {
   font-weight: 1000px;
   color: rgb(15, 172, 235);
 }
-
+.navbar {
+  margin-bottom: 20px;
+}
 .contain1 h1,
 h3 {
   color: rgb(15, 172, 235);
