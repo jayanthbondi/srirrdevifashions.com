@@ -68,12 +68,4 @@ footer p {
   .image {
     background-position-x: 70%;
   }
-  .layout11 {
-    position: absolute;
-    margin-left: 0px;
-  }
-  .layout12 {
-    position: relative;
-    left: -20px;
-  }
 }
