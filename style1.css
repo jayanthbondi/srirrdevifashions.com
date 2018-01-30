@@ -68,10 +68,11 @@ footer p {
   .image {
     background-position-x: 70%;
   }
-  .layout11 h1 {
-    margin-left: 10px;
+  .layout11 {
+    margin-left: 0px;
   }
-  .layout11 li {
-    margin-left: 5px;
+  .layout12 {
+    position: relative;
+    right: 20px;
   }
 }
