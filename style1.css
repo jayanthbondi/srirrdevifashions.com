@@ -68,7 +68,10 @@ footer p {
   .image {
     background-position-x: 70%;
   }
-  .layout11 {
+  .layout11 h1 {
     margin-left: 10px;
+  }
+  .layout11 li {
+    margin-left: 5px;
   }
 }
