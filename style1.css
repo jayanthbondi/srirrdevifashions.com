@@ -69,10 +69,10 @@ footer p {
     background-position-x: 70%;
   }
   .layout11 {
-    margin-left: 0px;
+    margin-left: 10px;
   }
   .layout12 {
     position: relative;
-    right: 20px;
+    left: 20px;
   }
 }
